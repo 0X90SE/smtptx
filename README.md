@@ -6,6 +6,7 @@ This very simple tool is used for sending simple email and  do some basic email 
 
 ## Functions
 
+```
 usage: smtptx.py [-h] [-t TO_ADDRESS] [-f FROM_ADDRESS] [-s SUBJECT] [-m MESSAGE_BODY] [-a ATTACHMENT] [-u USERNAME] [-p PASSWORD] [--use-tls] [-d DNS_SERVER] [--dns-timeout DNS_TIMEOUT] [-S SMTP_SERVER]
                  [--smtp-timeout SMTP_TIMEOUT] [-P SMTP_PORT] [--source-host SOURCE_HOST] [-r] [-e EHLO_HOST] [-T TO_LIST] [-F FROM_LIST] [--flood FLOOD] [-v]
 
@@ -52,3 +53,4 @@ optional arguments:
 
 
 Do note that all functions are not implemented.
+```
