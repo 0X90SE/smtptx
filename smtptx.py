@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 # ==============================================================================
 # Title        :   SMTPTX
 # Dependencies :   Python v3.x and Python DNS Toolkit (www.dnspython.org)
